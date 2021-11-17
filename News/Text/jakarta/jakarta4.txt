@@ -1,0 +1,64 @@
+GOOGLE LAUNCHES FIRST CLOUD REGION IN INDONESIA
+
+[image]
+Google Cloud announced the opening of its new Jakarta region on
+Wednesday, bringing services closer to its Indonesian and Southeast
+Asian consumers.
+
+The company’s Indonesia country director, Megawaty Khie, said the
+Jakarta region would allow businesses to comply with national
+regulations and ease recovery options for consumers.
+
+“We chose Jakarta as the next region because Indonesia has one of
+the highest gross domestic product growth [rates] in the region and is
+home to many of Asia’s unicorns,” she said in an online press
+conference, referring to large start-ups.
+
+Indonesia’s digital economy is well on track to dominate Southeast
+Asia as its market value is projected to triple to US$130 billion by
+2025 from $40 billion in 2019, according to the latest “e-Conomy
+Southeast Asia” study.
+
+The newly launched cloud platform marks the first Google region in the
+country and the ninth in the Asia Pacific. In total, Google Cloud has
+24 regions with 73 zones in 17 countries around the globe.
+
+Google first announced the plan to open Google Cloud in Indonesia
+during its Cloud Summit in 2018. It plans to launch two cloud regions
+Asia Pacific, namely in Delhi and Melbourne in the coming years.
+
+Google Cloud Platform offers cloud computing services, data
+analytics, machine learning and security and management tools for
+businesses.
+
+Several companies in the country utilize Google Cloud services,
+including e-payment solution GoPay and telecommunication company XL
+Axiata.
+
+“Having Google Cloud available in the region means that we can
+comply with regional regulations and requirements. This also means
+that latency and traffic can be more manageable,” said XL
+Axiata chief information and digital officer Yessie Yosetya.
+
+Meanwhile, GoPay CEO Aldi Haryopratomo said the company utilized cloud
+computing to manage, analyze and capture data quickly for making
+data-driven decisions.
+
+According to a 2019 study by Boston Consulting Group BCG commissioned
+by Google Cloud, companies that use public cloud services could add
+around $36 billion to Indonesia’s GDP between 2019 and 2023. They
+could also create around 350,000 jobs across different industries.
+
+To help the country capture the potential, Google Cloud Indonesia
+plans to roll out 150,000 training labs in Indonesia this year to
+enable cloud computing training and certification for Indonesians.
+
+“Going into digital transformation era, Indonesia will see higher
+demand for digital talent, so we created this program along with other
+initiatives,” Megawaty said, adding that Google was also partnering
+with the Information and Communications Ministry in the latter’s
+Digital Talent Scholarship program.  
+
+Indonesia is currently home to two data centers from Alibaba Cloud and
+Google. Meanwhile, Amazon’s cloud subsidiary Amazon Web Services
+revealed that it would build a data center in 2022.

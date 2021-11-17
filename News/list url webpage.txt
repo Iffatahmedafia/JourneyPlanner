@@ -1,0 +1,48 @@
+Jakarta
+Article 1:https://www.thejakartapost.com/news/2020/06/25/crisis-like-no-other-will-shrink-indonesias-economy-imf-forecasts.html
+Article 2:https://www.thejakartapost.com/news/2020/04/23/kimia-farma-to-cut-investment-costs-but-expects-higher-revenue-amid-covid-19.html
+Article 3:https://www.thejakartapost.com/news/2020/06/24/indonesia-looks-to-sign-rcep-this-year-to-support-economic-recovery.html
+Article 4:https://www.thejakartapost.com/news/2020/06/24/google-launches-first-cloud-region-in-indonesia.html
+Article 5:https://www.thejakartapost.com/news/2020/06/24/gold-shines-as-coronavirus-surge-unnerves-investors.html
+
+Bangkok
+Article 1:https://www.bangkokpost.com/business/1941160/second-half-to-witness-more-business-closures
+Article 2:https://www.bangkokpost.com/business/1941220/thai-airways-feels-loss-of-state-owned-enterprise-status
+Article 3:https://www.bangkokpost.com/business/1941212/energy-spending-sped-up
+Article 4:https://www.bangkokpost.com/business/1941152/central-aws-set-up-startup-lab
+Article 5:https://www.bangkokpost.com/business/1941088/bubble-tourism-wears-flak
+
+Taipei
+Article 1:https://www.taipeitimes.com/News/biz/archives/2020/06/26/2003738864
+Article 2:https://www.taipeitimes.com/News/biz/archives/2020/06/26/2003738861
+Article 3:https://www.taipeitimes.com/News/biz/archives/2020/06/26/2003738862
+Article 4:https://www.taipeitimes.com/News/biz/archives/2020/06/26/2003738863
+Article 5:https://www.taipeitimes.com/News/biz/archives/2020/06/25/2003738804
+
+Hongkong
+Article 1:https://hongkongfp.com/2020/06/15/coronavirus-how-crowdfunding-helped-a-live-music-venue-survive-hong-kongs-shutdown/
+Article 2:https://hongkongfp.com/2020/06/15/hong-kong-disneyland-to-reopen-after-five-month-virus-closure/
+Article 3:https://hongkongfp.com/2020/06/13/coronavirus-how-does-a-tour-company-survive-when-hong-kong-has-no-tourists/
+Article 4:https://hongkongfp.com/2020/06/11/they-want-to-cosy-up-hsbc-under-fire-in-uk-for-backing-beijings-security-law-for-hong-kong/
+Article 5:https://hongkongfp.com/2020/06/09/hong-kongs-cathay-pacific-unveils-govt-led-hk39-billion-bailout-plan/
+
+Tokyo
+Article 1:https://www.japantimes.co.jp/news/2020/06/26/business/economy-business/boj-forecast-coronavirus/
+Article 2:https://www.japantimes.co.jp/news/2020/06/25/business/economy-business/imf-forecasts-global-contraction-4-9pc-pandemic/
+Article 3:https://www.japantimes.co.jp/news/2020/06/24/business/economy-business/boj-policymakers-voice-concerns-deflation-risk/
+Article 4:https://www.japantimes.co.jp/news/2020/06/23/business/economy-business/japan-uk-six-weeks-trade-deal/
+Article 5:https://www.japantimes.co.jp/news/2020/06/22/business/economy-business/japanese-banks-fintech/
+
+beijing
+Article 1:https://www.bbc.com/news/world-asia-china-53074076?intlink_from_url=https://www.bbc.com/news/topics/cny66rdp26yt/beijing&link_location=live-reporting-story
+Article 2:https://www.bbc.com/news/world-asia-china-53034924?intlink_from_url=https://www.bbc.com/news/topics/cny66rdp26yt/beijing&link_location=live-reporting-story
+Article 3:https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-51857424?intlink_from_url=https://www.bbc.com/news/topics/cny66rdp26yt/beijing&link_location=live-reporting-story
+Article 4:https://www.bbc.com/news/world-asia-china-51628693?intlink_from_url=https://www.bbc.com/news/topics/cny66rdp26yt/beijing&link_location=live-reporting-story
+Article 5:https://www.bbc.com/sport/snooker/51325726?intlink_from_url=https://www.bbc.com/news/topics/cny66rdp26yt/beijing&link_location=live-reporting-story
+
+seoul
+Article 1:http://www.koreaherald.com/view.php?ud=20200625000811&np=1&mp=1
+Article 2:http://www.koreaherald.com/view.php?ud=20200626000306&np=1&mp=1
+Article 3:http://www.koreaherald.com/view.php?ud=20200625000303&np=1&mp=1
+Article 4:http://www.koreaherald.com/view.php?ud=20200625000809&np=1&mp=1
+Article 5:http://www.koreaherald.com/view.php?ud=20200625000752&np=1&mp=1
